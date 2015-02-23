@@ -1,0 +1,14 @@
+# Site settings
+title: Ramblings of a CenCal Ruby Developer
+email: frank.west.iii@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the blog of a ruby developer in Central California named Frank West.
+  It has his ramblings about being a developer in the central valley of California,
+  life and other random thoughts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://frank-west-iii.github.io"
+twitter_username: sjvworthog
+github_username:  frank-west-iii
+
+# Build settings
+markdown: kramdown
