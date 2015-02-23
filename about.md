@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am a ruby developer living in Hanford, CA. I have been developing enterprise
+level applications for 12 years now. I am a husband and a father of three
+amazing kids. I am a hobbyist coffee lover and former homebrewer. I run the
+CenCal Ruby user group <http://www.cencalruby.org> and am a member of the Bako
+Ruby user group.
