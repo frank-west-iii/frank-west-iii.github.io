@@ -12,3 +12,6 @@ github_username:  frank-west-iii
 
 # Build settings
 markdown: kramdown
+
+paginate: 7
+paginate_path: "/blog/page:num/"
