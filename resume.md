@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frank West's Resume
+title: My Resume
 permalink: /resume/
 ---
 # FRANK WEST
@@ -8,7 +8,7 @@ permalink: /resume/
 
 #### QUALIFICATIONS SUMMARY
 ---
-* 14+ years of experience in object oriented software development, design and implementation of numerous client/server applications using Ruby, Ruby on Rails, C# .Net MVC Framework
+* 12+ years of experience in object oriented software development, design and implementation of numerous client/server applications using Ruby, Ruby on Rails, C# .Net MVC Framework
 * Extensive experience in Agile development practices and experience with the complete software development life cycle
 * Strong in development of specifications, functional, and technical requirements
 * 3+ years experience performing full stack development and deployment practices using Nginx, Capistrano, Chef and Ansible
